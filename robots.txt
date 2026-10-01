@@ -1,0 +1,3 @@
+# Allow crawling all published pages.
+User-agent: *
+Disallow:
