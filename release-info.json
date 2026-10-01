@@ -1,11 +1,11 @@
 {
   "schemaVersion": 2,
-  "applicationVersion": "0.0.4",
+  "applicationVersion": "0.0.5",
   "coreVersion": "0.0.1",
   "coreCommitSha": "8c44df9c0bb0c6eda80dbb88cc06febd3d4cbd33",
   "coreDirty": true,
-  "galleryCommitSha": "14dab0c848f9a3c0478455c323515d8b8efb14b3",
+  "galleryCommitSha": "87b3c09ed9723165107fe968e3996cf058654640",
   "galleryDirty": true,
-  "galleryStateFingerprint": "01087c00fee108d80e80dd3847a1693985db32ccfe1c115f5d1133e4b86072f3",
-  "builtAt": "2026-10-01T06:40:00.354Z"
+  "galleryStateFingerprint": "92ef4bd922b3a1ae8e5e3a8ff4f960f0418ed3d1819fa1b51a13cb09d0ae61c9",
+  "builtAt": "2026-10-01T06:41:48.836Z"
 }
