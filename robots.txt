@@ -1,3 +1,4 @@
 # Allow crawling all published pages.
 User-agent: *
 Disallow:
+Sitemap: https://barcelona-2026.cebre.us/sitemap.xml
