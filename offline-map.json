@@ -1,10 +1,10 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "90f3f4aa8df5e059d445564dc71d1563e1fe09f67592dcc64c049b2ce80f9f1b",
+  "snapshotId": "ce41444e14aa2654c969920254ae5c34fbcc658f3ea55d10a75f90cc57d2568e",
   "gallery": "barcelona-2026",
-  "updatedAt": "2026-10-09T19:15:52.563Z",
-  "locationsSha256": "4fc64981aa64033d334bb736c0eea789035aeb24932274f5fd41774ab52a7f1e",
+  "updatedAt": "2026-10-14T15:25:17.525Z",
+  "locationsSha256": "e79f4175ad524fe484c92bf7aaab28ec86cadfa8428486220ca2f92a77f6264b",
   "byZoom": {
     "0": 1,
     "1": 4,
@@ -23,7 +23,7 @@
     "14": 223,
     "15": 299,
     "16": 416,
-    "17": 644
+    "17": 630
   },
   "layers": {
     "street": {
@@ -35,8 +35,8 @@
       "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 3300,
-      "sha256": "815e1c45506abc9176a8db97d813e176f43828838f2b8310188bb6c377a19afa",
+      "expected": 3286,
+      "sha256": "aefb0258202604af19048b0df5caf9a890cddde2f51f8c3ae790f46c917bc65a",
       "acquiredAt": "2026-10-09T18:47:02.891Z"
     },
     "satellite": {
