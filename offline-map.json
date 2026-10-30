@@ -1,17 +1,17 @@
 {
   "version": 3,
   "plannerVersion": 1,
-  "snapshotId": "ce41444e14aa2654c969920254ae5c34fbcc658f3ea55d10a75f90cc57d2568e",
+  "snapshotId": "3f7c97b36d95c76116cc47d3e9d6a0f21e7422bfc5e74bf139c6feafe27e03c2",
   "gallery": "barcelona-2026",
-  "updatedAt": "2026-10-14T15:25:17.525Z",
-  "locationsSha256": "e79f4175ad524fe484c92bf7aaab28ec86cadfa8428486220ca2f92a77f6264b",
+  "updatedAt": "2026-10-30T14:45:15.726Z",
+  "locationsSha256": "f2f050b3579388a6f13026f3e0923da4e92dd5ee65bf1a1a7312059ec28628b3",
   "byZoom": {
     "0": 1,
     "1": 4,
     "2": 16,
-    "3": 64,
-    "4": 256,
-    "5": 1024,
+    "3": 9,
+    "4": 9,
+    "5": 12,
     "6": 16,
     "7": 18,
     "8": 18,
@@ -32,11 +32,11 @@
       "mimeType": "image/png",
       "path": "map-tiles-street",
       "attribution": "© CARTO; © OpenStreetMap contributors",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "carto-voyager-legacy-trial",
       "maxZoom": 17,
-      "expected": 3286,
-      "sha256": "aefb0258202604af19048b0df5caf9a890cddde2f51f8c3ae790f46c917bc65a",
+      "expected": 1972,
+      "sha256": "0101bfd5b4a44383a92d337555c34140b1918c2c6d29f9a519143c0473b4f11d",
       "acquiredAt": "2026-10-09T18:47:02.891Z"
     },
     "satellite": {
@@ -45,11 +45,11 @@
       "mimeType": "image/jpeg",
       "path": "map-tiles-satellite",
       "attribution": "© Esri — Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community",
-      "offlinePermissionEvidence": "Technical trial authorised by the repository owner on 2026-07-24; provider licence remains pending; do not commit or distribute.",
+      "offlinePermissionEvidence": "Offline distribution approved by the repository owner on 2026-10-18 for this personal photoblog; no separate provider licence document is on file.",
       "sourceId": "esri-world-imagery-legacy-trial",
       "maxZoom": 16,
-      "expected": 2656,
-      "sha256": "22cfb1dfc4a7e6ee5a6ea70294000924ef4b2a7added665711ef60a490c7091b",
+      "expected": 1342,
+      "sha256": "75202d3bf5589f27b1fcaedd1f856b282e509058634ee71ddd65c2e10923ea98",
       "acquiredAt": "2026-10-09T18:47:02.891Z"
     }
   }
